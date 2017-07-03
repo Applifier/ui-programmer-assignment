@@ -5,7 +5,7 @@ Return your answers as a zip file. Do not fork this repo.
 ## Chat UI
 
 Implement a chat UI for mobile devices similar to e.g. [Whatsapp](https://www.whatsapp.com/) or [Facebook messenger](https://www.messenger.com/).
-Mock the server calls, i.e. implement only the frontend.
+You only need to implement the frontend, as the backend is provided for you, along with an [API client](https://applifier.github.io/ui-programmer-assignment-backend/).
 
 You should implement the following views and navigation between them:
 - Chat list:
@@ -21,5 +21,6 @@ You can find and use the graphical assets you need in the assets folder.
 
 Technology constraints & considerations:
 - Use [React native](https://github.com/facebook/react-native).
+- Use the provided API client. You can find installation instructions and documentation here: https://applifier.github.io/ui-programmer-assignment-backend/
 - You may use additional libraries, but if you do explain why you did.
 - Include instructions how to run the app. Include enough mock data for us to test your UI.
